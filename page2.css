@@ -294,13 +294,15 @@ hr{
     }
 
     input[type=submit2] {
-        width: 50%;
+        width: 44%;
         padding: 5px 8px;
+      
         
     }
     .btn {
-        width: 50%;
+        width: 44%;
         padding: 5px 8px;
+      
     }
 
 }
